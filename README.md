@@ -298,39 +298,3 @@ eas update
 
 **iot_shield_2026**
 
-## 📄 License
-
-MIT License - feel free to use for your projects!
-
----
-
-## 🎉 What's New in This Version
-
-### UI/UX Improvements
-- ✨ Complete redesign with modern aesthetics
-- ✨ Improved color scheme and typography
-- ✨ Better spacing and visual hierarchy
-- ✨ Smooth animations and transitions
-
-### Cashier Dashboard Redesign
-- 🛍️ E-commerce style product selection
-- 🛒 Shopping cart with quantity controls
-- 💰 Real-time total calculation
-- ✅ Balance validation before checkout
-- 📱 Split-screen layout for better UX
-
-### Authentication Enhancements
-- 🔐 Backend connection checking
-- 🟢 Real-time server status indicator
-- ⚡ Faster login flow
-- 🔄 Auto-retry on connection failure
-
-### General Improvements
-- 📊 Better error messages
-- 🎨 Consistent design language
-- 🚀 Performance optimizations
-- 📱 Improved mobile responsiveness
-
----
-
-
